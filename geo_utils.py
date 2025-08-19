@@ -4,6 +4,9 @@ import time
 import requests
 import math
 
+# Ensure config directory exists
+os.makedirs('config', exist_ok=True)
+
 geo_cache = {}
 cache_file = "config/geo_cache.json"
 if os.path.exists(cache_file):
@@ -35,7 +38,7 @@ def reverse_geocode(lat, lon, geoapify_key, google_key, delay=0.5, log_func=None
         return geo_cache[key_fallback]
 
     if log_func:
-        log_func(f"🌐 MISS: ({lat:.5f}, {lon:.5f}) → API call")
+        log_func(f"🌍 MISS: ({lat:.5f}, {lon:.5f}) → API call")
 
     result = {}
     if geoapify_key:

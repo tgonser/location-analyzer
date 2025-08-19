@@ -9,12 +9,14 @@ from geo_utils import reverse_geocode, haversine_distance, is_over_water, geo_ca
 import pandas as pd
 import math
 
-cache_file = "geo_cache.json"
+# Ensure config directory exists and set cache file path
+os.makedirs('config', exist_ok=True)
+cache_file = "config/geo_cache.json"
 
 def process_location_file(file_path, start_date, end_date, output_dir, group_by,
                          geoapify_key, google_key, onwater_key, delay, batch_size,
                          log_func, cancel_check, include_distance=True):
-    log_func(f"🔍 Loading: {file_path}")
+    log_func(f"📂 Loading: {file_path}")
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
@@ -121,7 +123,7 @@ def process_location_file(file_path, start_date, end_date, output_dir, group_by,
 
     combined = sorted(zip(coords, activity_blocks), key=lambda x: x[0][0])
     coords, activity_blocks = zip(*combined) if combined else ([], [])
-    log_func("📦 Reverse geocoding locations...")
+    log_func("🔦 Reverse geocoding locations...")
 
     city_time = defaultdict(list)  # Store time intervals per place
     total_distance = 0.0
@@ -198,7 +200,7 @@ def generate_city_jump_csv(coords, output_dir, group_by, log_func, activities=No
     jump_file = os.path.join(output_dir, "city_jumps_with_mode.csv")
 
     if group_by != "by_city":
-        log_func("🔁 Skipping city jump output (not in by_city mode)")
+        log_func("📂 Skipping city jump output (not in by_city mode)")
         return None
 
     mode_map = {

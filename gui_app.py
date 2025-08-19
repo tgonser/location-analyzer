@@ -8,7 +8,9 @@ import json
 from analyzer_bridge import process_location_file
 import pandas as pd
 
-CONFIG_FILE = "config.json"
+# Ensure config directory exists and set config file path
+os.makedirs('config', exist_ok=True)
+CONFIG_FILE = "config/gui_config.json"
 
 def load_config():
     if os.path.exists(CONFIG_FILE):
