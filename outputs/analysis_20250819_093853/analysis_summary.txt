@@ -1,0 +1,27 @@
+LOCATION ANALYSIS SUMMARY
+==================================================
+
+Total Distance Traveled: 7870.00 miles
+Total Location Jumps: 15
+Cities Visited: 31
+States/Countries Visited: 4
+
+TOP 10 CITIES BY TIME SPENT:
+------------------------------
+ 1. Mercer Island, United States: 13.8 days
+ 2. Kihei, United States: 3.1 days
+ 3. Sun Valley, United States: 2.7 days
+ 4. Alamo, United States: 2.5 days
+ 5. Seattle, United States: 1.8 days
+ 6. Medina, United States: 0.8 days
+ 7. Roche Harbor, United States: 0.7 days
+ 8. Makawao, United States: 0.7 days
+ 9. Wailea, United States: 0.6 days
+10. Bellevue, United States: 0.5 days
+
+TOP 10 STATES/COUNTRIES BY TIME SPENT:
+----------------------------------------
+ 1. Washington: 18.6 days
+ 2. Hawaii: 5.3 days
+ 3. Idaho: 3.2 days
+ 4. California: 3.0 days

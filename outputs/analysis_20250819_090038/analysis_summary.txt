@@ -1,0 +1,25 @@
+LOCATION ANALYSIS SUMMARY
+==================================================
+
+Total Distance Traveled: 8319.82 miles
+Total Location Jumps: 32
+Cities Visited: 25
+States/Countries Visited: 2
+
+TOP 10 CITIES BY TIME SPENT:
+------------------------------
+ 1. Kihei, United States: 17.7 days
+ 2. Wailea, United States: 3.3 days
+ 3. Makawao, United States: 3.3 days
+ 4. Fujikawaguchiko, Japan: 2.8 days
+ 5. Minato, Japan: 1.0 days
+ 6. Honolulu, United States: 0.6 days
+ 7. Fujinomiya, Japan: 0.6 days
+ 8. Kahului, United States: 0.5 days
+ 9. Narita-shi, Japan: 0.4 days
+10. Paia, United States: 0.3 days
+
+TOP 10 STATES/COUNTRIES BY TIME SPENT:
+----------------------------------------
+ 1. Hawaii: 26.2 days
+ 2. Japan: 5.4 days

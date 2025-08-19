@@ -1,0 +1,22 @@
+LOCATION ANALYSIS SUMMARY
+==================================================
+
+Total Distance Traveled: 2640.20 miles
+Total Location Jumps: 1
+Cities Visited: 7
+States/Countries Visited: 2
+
+TOP 10 CITIES BY TIME SPENT:
+------------------------------
+ 1. Mercer Island, United States: 7.5 days
+ 2. Seattle, United States: 0.7 days
+ 3. Bellevue, United States: 0.3 days
+ 4. Kahului, United States: 0.2 days
+ 5. Medina, United States: 0.2 days
+ 6. Kirkland, United States: 0.1 days
+ 7. SeaTac, United States: 0.0 days
+
+TOP 10 STATES/COUNTRIES BY TIME SPENT:
+----------------------------------------
+ 1. Washington: 8.7 days
+ 2. Hawaii: 0.2 days

@@ -1,0 +1,27 @@
+LOCATION ANALYSIS SUMMARY
+==================================================
+
+Total Distance Traveled: 8039.03 miles
+Total Location Jumps: 16
+Cities Visited: 19
+States/Countries Visited: 4
+
+TOP 10 CITIES BY TIME SPENT:
+------------------------------
+ 1. Mercer Island, United States: 17.0 days
+ 2. Ketchum, United States: 4.9 days
+ 3. Bend, United States: 1.6 days
+ 4. Seattle, United States: 1.5 days
+ 5. Fiumicino, Italy: 1.5 days
+ 6. Hailey, United States: 0.6 days
+ 7. Bellevue, United States: 0.5 days
+ 8. Sun Valley, United States: 0.4 days
+ 9. Medina, United States: 0.4 days
+10. Diamante, Italy: 0.3 days
+
+TOP 10 STATES/COUNTRIES BY TIME SPENT:
+----------------------------------------
+ 1. Washington: 19.6 days
+ 2. Idaho: 6.1 days
+ 3. Oregon: 2.1 days
+ 4. Italy: 1.8 days

@@ -1,0 +1,26 @@
+LOCATION ANALYSIS SUMMARY
+==================================================
+
+Total Distance Traveled: 988.81 miles
+Total Location Jumps: 21
+Cities Visited: 28
+States/Countries Visited: 3
+
+TOP 10 CITIES BY TIME SPENT:
+------------------------------
+ 1. Mercer Island, United States: 11.3 days
+ 2. Bend, United States: 5.5 days
+ 3. Yakima, United States: 2.5 days
+ 4. Roche Harbor, United States: 2.1 days
+ 5. Vancouver, Canada: 1.8 days
+ 6. Salt Spring Island Electoral Area, Canada: 1.2 days
+ 7. None, Canada: 1.1 days
+ 8. Seattle, United States: 1.0 days
+ 9. Bellevue, United States: 0.9 days
+10. Victoria, Canada: 0.9 days
+
+TOP 10 STATES/COUNTRIES BY TIME SPENT:
+----------------------------------------
+ 1. Washington: 18.8 days
+ 2. Oregon: 6.6 days
+ 3. Canada: 6.0 days
