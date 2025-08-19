@@ -20,7 +20,7 @@ A powerful, modern tool for analyzing Google Location History data with real-tim
 ## 🎥 Demo
 
 **Real-time Analysis in Action:**
-- Upload your Google Location History file
+- Upload your Google Location History file - AFTER IT HAS BEEN PROCESSED BY MY COMPRESS4.PY SCRIPT*
 - Watch live progress updates as data is processed
 - See statistics appear in real-time
 - Download detailed CSV reports instantly
