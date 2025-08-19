@@ -159,3 +159,4 @@ development.db
 .local
 *.localconfig/geo_cache.json 
 config/web_config.json 
+__pycache__/ 
